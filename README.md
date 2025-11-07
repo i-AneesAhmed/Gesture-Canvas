@@ -8,7 +8,7 @@
 
 ### 👋 Hello Creative Coder!  
 Welcome to the **Gesture Canva Project**, where **creativity meets technology**.  
-Use **gestures** to draw, design, and express yourself in a whole new dimension. ✨  
+Use **Hands(index finger) gesture** to draw, design, and express yourself in a whole new dimension. ✨  
 
 ---
 
@@ -26,7 +26,7 @@ Use **gestures** to draw, design, and express yourself in a whole new dimension.
 
 ### 🧠 Our Vision  
 To make **art creation as natural as movement** —  
-No mouse, no brush... just your **Index finger**. 🖐️💫
+No mouse, no brush... just your **Hands gesture(Index finger)**. 🖐️💫
 
 ---
 
