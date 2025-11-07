@@ -33,9 +33,7 @@ No mouse, no brush... just your **Index finger**. 🖐️💫
 ### 🌟 Stay Creative  
 > “Creativity is intelligence having fun.” – *Albert Einstein*  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzcGp2OG9iYTVwcW90OHh0OXA2OGc5MWs2ZjlrcWFjZXk2eXhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYB8Ory7Hqefo9a/giphy.gif" width="200px" alt="Happy Drawing GIF" />
 
 ---
-
-✨ **Made with ❤️ by the Gesture Canva Team**  
+ 
 </div>
