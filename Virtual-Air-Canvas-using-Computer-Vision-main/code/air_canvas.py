@@ -133,7 +133,6 @@ def main():
         cv2.imshow("Air Canvas", temp_canvas)
         cv2.imshow("Tracking", frame)
 
-        # Handle keyboard input
         key = cv2.waitKey(1)
         if key == ord('q'):
             break

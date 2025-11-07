@@ -4,7 +4,6 @@ import numpy as np
 import cv2
 
 def show_color_picker(current_color):
-    """Opens a color picker window and returns the selected color in BGR format"""
     root = tk.Tk()
     root.withdraw()  # Hide the main window
     
